@@ -1,4 +1,3 @@
-# app/services/image_processing.py
 import cv2
 import numpy as np
 from PIL import Image
