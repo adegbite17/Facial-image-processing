@@ -1,4 +1,4 @@
-# Qoves FastAPI Take-home
+# Face Processing
 
 Run locally:
 1. use  .env as environment variables
